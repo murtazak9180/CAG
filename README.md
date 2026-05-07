@@ -78,10 +78,6 @@ disp(x)
 
 Before running the simulation, define all required parameters in `params`, including:
 
-- Number of agents (`n`)
-- Simulation steps (`steps`)
-- Control and integration timesteps (`ct`, `dt`)
-- MPC horizon (`h`)
 - Controller selection (`controller_type`)  
 
 Set the controller type as either:
